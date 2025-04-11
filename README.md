@@ -78,7 +78,7 @@ Email/SMS notification support
 Admin login for secured access  
 Attendance analytics dashboard  
 
-
+## Connect with me:
 | Name    | Email              | LinkedIn                                      | GitHub                      | Instagram                     |
 |---------|--------------------|-----------------------------------------------|-----------------------------|-------------------------------|
-| Pradeep | pradeep.singh04r@gmail.com  | [LinkedIn](https://linkedin.com/in/pradeep-singh4) | [GitHub](https://github.com/pradeep-r04) | [Instagram](https://instagram.com/whypradeeep) |
+| Pradeep | [Email](pradeep.singh04r@gmail.com)  | [LinkedIn](https://linkedin.com/in/pradeep-singh4) | [GitHub](https://github.com/pradeep-r04) | [Instagram](https://instagram.com/whypradeeep) |
