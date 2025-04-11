@@ -56,38 +56,25 @@ face_recog/ ├── data/ │ ├── haarcascade_frontalface_default.xml �
 
 ## ▶️ Getting Started
 
-### 🔧 Install Requirements
 
+## 📌 Notes  
+Ensure your webcam is working properly.  
+Press o to mark attendance after face is recognized.  
+Each user is registered with exactly 5 face samples.  
+Attendance records are saved in the Attendance/ folder, labeled by date.  
 
-pip install -r requirements.txt
+## 🙌 Acknowledgements  
+OpenCV – for real-time face detection  
+scikit-learn – for implementing KNN classification  
+Streamlit – for making the interface interactive  
+Microsoft Speech API – for text-to-speech feature 
 
-📌 Notes
-Ensure your webcam is working properly.
+## 📜 License
+This project is for educational and personal use only.  
+MIT License or other appropriate license can be added based on your preference.  
 
-Press o to mark attendance after face is recognized.
-
-Each user is registered with exactly 5 face samples.
-
-Attendance records are saved in the Attendance/ folder, labeled by date.
-
-🙌 Acknowledgements
-OpenCV – for real-time face detection
-
-scikit-learn – for implementing KNN classification
-
-Streamlit – for making the interface interactive
-
-Microsoft Speech API – for text-to-speech feature
-
-📜 License
-This project is for educational and personal use only.
-MIT License or other appropriate license can be added based on your preference.
-
-💡 Future Enhancements
-Database integration (e.g., SQLite or Firebase)
-
-Email/SMS notification support
-
-Admin login for secured access
-
-Attendance analytics dashboard
+## 💡 Future Enhancements  
+Database integration (e.g., SQLite or Firebase)  
+Email/SMS notification support  
+Admin login for secured access  
+Attendance analytics dashboard  
