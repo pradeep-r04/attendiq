@@ -30,7 +30,7 @@ AttendIQ is a Face Recognition Attendance System designed to automate and stream
 ---
 
 ## 📁 Project Structure
-face_recog/ ├── data/ │ ├── haarcascade_frontalface_default.xml │ ├── names.pkl │ └── faces_data.pkl ├── Attendance/ │ └── Attendance_dd-mm-yyyy.csv ├── background.png ├── main.py # User registration and sample capture ├── test.py # Face recognition & attendance logging ├── app.py # Streamlit interface └── README.md
+face_recog/ ├── data/ │ ├── haarcascade_frontalface_default.xml │ ├── names.pkl │ └── faces_data.pkl ├── Attendance/ │ └── Attendance_dd-mm-yyyy.csv ├──  ├── main.py # User registration and sample capture ├── test.py # Face recognition & attendance logging ├── app.py  # Streamlit interface └── README.md
 
 
 ---
@@ -71,10 +71,14 @@ Microsoft Speech API – for text-to-speech feature
 
 ## 📜 License
 This project is for educational and personal use only.  
-MIT License or other appropriate license can be added based on your preference.  
 
 ## 💡 Future Enhancements  
 Database integration (e.g., SQLite or Firebase)  
 Email/SMS notification support  
 Admin login for secured access  
 Attendance analytics dashboard  
+
+
+| Name    | Email              | LinkedIn                                      | GitHub                      | Instagram                     |
+|---------|--------------------|-----------------------------------------------|-----------------------------|-------------------------------|
+| Pradeep | pradeep.singh04r@gmail.com  | [LinkedIn](https://linkedin.com/in/pradeep-singh4) | [GitHub](https://github.com/pradeep-r04) | [Instagram](https://instagram.com/whypradeeep) |
